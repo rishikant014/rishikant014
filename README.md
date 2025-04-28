@@ -1,34 +1,42 @@
-🥷 Welcome, Brave Traveler!
-You have entered the GitHub dojo of [Your Name].
+****🥷 Welcome, Brave Traveler!****
+You have entered the GitHub dojo of Rishi.
 Here, code is crafted with precision, projects are built with discipline, and innovation strikes faster than a ninja’s blade. ⚔️
 
 🧙 About the Ninja
-🎓 Trained at [Your University / Degree, e.g., Army Institute of Technology | Data Science Master]
+🎓 Trained at  Army Institute of Technology | Data Science Master
 
-🥷 Specializes in [Your Skills: Machine Learning, Data Science, Web Dev, Cloud Deployment]
+🥷 Specializes in Machine Learning, Data Science, Large Language Models.
 
-🧘 Currently mastering the art of [what you're learning right now]
+🧘 Currently mastering the ancient art of Model Generations
 
-🏹 Mission: To build solutions that are swift, smart, and stealthy
+🏹 Mission: To build machine learning models that strike with precision and deliver unmatched accuracy ⚡🎯
 
 🛠️ Weapons of Choice
-
-📜 The Scrolls of Wisdom (Stats)
+- 🐍 Python
+- 📊 Pandas | NumPy
+- 🎯 Scikit-learn
+- 🧠 PyTorch | TensorFlow
+- 📚 Hugging Face
+- 🛢️ SQL
+- 🐳 Docker
+- ☁️ AWS | Azure
+- 🧩 Git & GitHub
 
 🔥 Ongoing Quests
-🎯 Sharpening skills in [your current project/learning]
+- 🧙‍♂️ Exploring the secrets of **Retrieval-Augmented Generation (RAG)** — combining knowledge retrieval with model generation.
+- 🧠 Forging new paths with **Context-Augmented Generation (CAG)** — enhancing LLMs with richer, deeper context.
+- 🥷 Continuously sharpening my skills in building powerful and accurate machine learning models.
 
-🥷 Preparing new open-source spells
+🥷 Sharpening my skills across the vast realms of **Data Science** — from data wrangling to model deployment.
 
-🌟 Collaborating with fellow ninjas across the world
+🌟 Open to collaborating with fellow ninjas across the world
 
 📫 Summon the Ninja
-🐦 Twitter
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/rishikant-mallick-00120b222/)
 
-🌐 Portfolio
+🌐 [Portfolio](rishikantmallick.me/portfolio/)
 
-📧 Email
+📧 [mail](rishikantmallick14@gmail.com)
 
-"The code is silent, but its impact echoes across the lands." 🌌
+*"The code is silent, but its impact echoes across the lands."* 🌌
