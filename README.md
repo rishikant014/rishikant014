@@ -1,4 +1,5 @@
-#🥷 Welcome, Brave Traveler!
+# 🥷 Welcome, Brave Traveler!
+
 You have entered the GitHub dojo of Rishi.
 Here, code is crafted with precision, projects are built with discipline, and innovation strikes faster than a ninja’s blade. ⚔️
 
