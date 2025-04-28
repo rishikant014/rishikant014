@@ -34,10 +34,10 @@ Here, code is crafted with precision, projects are built with discipline, and in
 
 📫 Summon the Ninja
 
-💼 [LinkedIn](https://www.linkedin.com/in/rishikant-mallick-00120b222/)
-
-🌐 [Portfolio](rishikantmallick.me/portfolio/)
-
-📧 [mail](rishikantmallick14@gmail.com)
+📧 rishikantmallick14@gmail.com
 
 *"The code is silent, but its impact echoes across the lands."* 🌌
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+
