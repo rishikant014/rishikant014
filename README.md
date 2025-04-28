@@ -37,7 +37,3 @@ Here, code is crafted with precision, projects are built with discipline, and in
 📧 rishikantmallick14@gmail.com
 
 *"The code is silent, but its impact echoes across the lands."* 🌌
-
-![GitHub stars](https://img.shields.io/github/stars/rishikant014/yourrepo?style=social)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-
